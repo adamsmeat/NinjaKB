@@ -1,13 +1,7 @@
-## Laravel 4.x
+## NinjaKB
 
-### A Framework For Web Artisans
+NinjaKB is a content manager for knowledgebase articles. It is based on Laravel 4.
 
-[Official Documentation](http://four.laravel.com) (Under Active Development)
+### Progress tracker
 
-### Contributing To Laravel
-
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+- vcs on [github](https://github.com/adamsmeat/NinjaKB)
