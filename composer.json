@@ -14,13 +14,13 @@
 	},
 	"scripts": {
 		"pre-update-cmd": [
-			"php artisan clear-compiled"
+			"php54 artisan clear-compiled"
 		],
 		"post-install-cmd": [
-			"php artisan optimize"
+			"php54 artisan optimize"
 		],
 		"post-update-cmd": [
-			"php artisan optimize"
+			"php54 artisan optimize"
 		]
 	},
 	"config": {
